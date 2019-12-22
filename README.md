@@ -6,3 +6,5 @@ This was so far my longest experience with code apart from HTML, and from now on
 If you wish to know me better --> http://getawayposts.com/42-ecole-42-school-piscine-day-minus-11-hello-and-welcome
 
 Kate
+
+[![Run on Repl.it](https://repl.it/badge/github/ekaterinageta/hello-world)](https://repl.it/github/ekaterinageta/hello-world)
